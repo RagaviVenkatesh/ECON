@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ragavi/Documents/CompetitiveCoding/SREC/ECON/Basics/output/CalculatorUsingSwitch'
+relocations:     []
+...
